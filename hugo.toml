@@ -7,6 +7,9 @@ paginate     = 10
 [params]
  homeSubtitle = "A simple and beautiful blog"
 
+
+  enableThemeToggle = true
+
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
