@@ -24,6 +24,19 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+  [params.author]
+    name = "Jean Karl Maxwell"
+
+  [params.footer]
+    rss = true
+    author = true
+
+    topText = ["topText"]
+
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/JCMaxwell12"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
