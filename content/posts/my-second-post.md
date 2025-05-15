@@ -1,7 +1,7 @@
 ---
 title: "My Second Post"
 date: 2025-05-14T10:15:17-06:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
